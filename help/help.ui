@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>HelpTab</class>
+ <widget class="QMainWindow" name="HelpTab">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>650</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>600</width>
+    <height>650</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>600</width>
+    <height>650</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="dockNestingEnabled">
+   <bool>false</bool>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTextBrowser" name="textBrowser">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>580</width>
+      <height>630</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>580</width>
+      <height>630</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>600</width>
+      <height>630</height>
+     </size>
+    </property>
+    <property name="html">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;============================================&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;Help?&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;============================================&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;🎬 YTDM – Your Ultimate YouTube Download Manager&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:26px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;🚀 Why Choose YTDM?&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;YTDM stands out as a top-tier solution...&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:26px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;🔑 Key Features of YTDM&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px; font-weight:600;&quot;&gt;Unlimited Downloads&lt;/span&gt;&lt;span style=&quot; font-size:16px;&quot;&gt; – Download as many videos or audio files as you like, without restrictions.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px; font-weight:600;&quot;&gt;Multi-Format Support&lt;/span&gt;&lt;span style=&quot; font-size:16px;&quot;&gt; – Convert content into MP3 &amp;amp; MP4&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px; font-weight:600;&quot;&gt;High-Quality Output&lt;/span&gt;&lt;span style=&quot; font-size:16px;&quot;&gt; – Enjoy resolutions from 360p to 8K and audio bitrates up to 320kbps.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px; font-weight:600;&quot;&gt;Secure &amp;amp; Private&lt;/span&gt;&lt;span style=&quot; font-size:16px;&quot;&gt; – No personal data required, ensuring safe and anonymous downloads.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style=&quot; margin-top:26px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;📥 How to Download YouTube Videos with YTDM&lt;/span&gt;&lt;/p&gt;
+&lt;ol style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px; font-weight:600;&quot;&gt;🔍 Step 1: Find Your Video&lt;/span&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;&lt;br /&gt;Start by visiting YouTube and searching for the video you want to convert...&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px; font-weight:600;&quot;&gt;🌐 Step 2: Open YTDM&lt;/span&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;&lt;br /&gt;Open our app, then you’ll be greeted by a clean, intuitive interface designed for quick and easy navigation.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px; font-weight:600;&quot;&gt;📋 Step 3: Paste the URL&lt;/span&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;&lt;br /&gt;On the YTDM homepage, locate the input field and paste the copied YouTube link. Make sure the entire URL is included to avoid any conversion errors. &lt;br /&gt;* &lt;/span&gt;&lt;span style=&quot; font-size:16px; font-weight:600;&quot;&gt;common mistakes while cpoying the URL (link) of the YouTube video:&lt;br /&gt;&lt;/span&gt;🚫 &lt;span style=&quot; font-weight:600;&quot;&gt;Don’t copy incomplete URL&lt;/span&gt; → always include full &lt;span style=&quot; font-family:'Courier New';&quot;&gt;https://&lt;/span&gt; and the video ID&lt;br /&gt;🚫 &lt;span style=&quot; font-weight:600;&quot;&gt;Don’t copy playlist link&lt;/span&gt; → avoid links with &lt;span style=&quot; font-family:'Courier New';&quot;&gt;&amp;amp;list=...&lt;/span&gt;; copy single video link instead&lt;br /&gt;🚫 &lt;span style=&quot; font-weight:600;&quot;&gt;Don’t copy URL with timestamp&lt;/span&gt; → remove &lt;span style=&quot; font-family:'Courier New';&quot;&gt;&amp;amp;t=...&lt;/span&gt; or &lt;span style=&quot; font-family:'Courier New';&quot;&gt;?t=...&lt;/span&gt; from the end&lt;br /&gt;🚫 &lt;span style=&quot; font-weight:600;&quot;&gt;Don’t use embed URL&lt;/span&gt; → avoid &lt;span style=&quot; font-family:'Courier New';&quot;&gt;https://www.youtube.com/embed/...&lt;br /&gt;&lt;/span&gt;🚫 &lt;span style=&quot; font-weight:600;&quot;&gt;Don’t use short link&lt;/span&gt; → like &lt;span style=&quot; font-family:'Courier New';&quot;&gt;youtu.be/...&lt;/span&gt; (may confuse some tools)&lt;br /&gt;🚫 &lt;span style=&quot; font-weight:600;&quot;&gt;Don’t add extra spaces&lt;/span&gt; before or after the URL&lt;br /&gt;🚫 &lt;span style=&quot; font-weight:600;&quot;&gt;Don’t copy private/unlisted video URL&lt;/span&gt; → these can’t be downloaded&lt;br /&gt;🚫 &lt;span style=&quot; font-weight:600;&quot;&gt;Don’t copy wrong link&lt;/span&gt; → channel homepage, ads, or unrelated page won’t work&lt;/li&gt;
+&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px; font-weight:600;&quot;&gt;🎼 Step 4: Choose Your Format&lt;/span&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;&lt;br /&gt;YTDM specializes in MP3 audio conversion... or MP4&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px; font-weight:600;&quot;&gt;🎶 Step 5: Enjoy Your Audio&lt;/span&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;&lt;br /&gt;After downloading, locate the MP3 or MP4 file in your device’s download folder.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;p style=&quot; margin-top:26px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;🆚 YTDM vs. Other Downloaders&lt;/span&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:20px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;thead&gt;
+&lt;tr&gt;
+&lt;td bgcolor=&quot;#6a11cb&quot; style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#ffffff; background-color:#6a11cb;&quot;&gt;Feature&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td bgcolor=&quot;#6a11cb&quot; style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#ffffff; background-color:#6a11cb;&quot;&gt;YTDM&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td bgcolor=&quot;#6a11cb&quot; style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#ffffff; background-color:#6a11cb;&quot;&gt;Others&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tr&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;Free &amp;amp; Unlimited&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;✅ Yes&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;❌ Often limited&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;No Registration&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;✅ Required&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;❌ Usually required&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;Format Variety&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;✅ Wide range&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;❌ Limited options&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;High-Quality Output&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;✅ Up to 8K &amp;amp; 320kbps&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;❌ Often capped&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;Speed &amp;amp; Reliability&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;✅ Fast conversions&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; padding-left:12; padding-right:12; padding-top:12; padding-bottom:12;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;❌ Slower speeds&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p style=&quot; margin-top:26px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;⚡ Fast Conversion Speeds&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;YTDM uses advanced technology to deliver rapid conversions without compromising quality. Whether you're downloading a short clip or a full-length documentary, the process is smooth and efficient.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:26px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;💡 Why Speed Matters&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Saves time and boosts productivity&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Keeps users engaged and satisfied&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Enables quick access to offline content&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style=&quot; margin-top:26px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;🔒 Safety &amp;amp; Privacy&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;YTDM prioritizes user safety:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;No personal data collection&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Secure connections for all downloads&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Adherence to responsible usage and copyright guidelines&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-style:italic; color:#4b4b4b;&quot;&gt;Note: Always ensure you have the right to download and use content. YTDM encourages ethical and legal media consumption.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:26px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;🎵 MP3 vs. MP4 – What’s Best for You?&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px; font-weight:600;&quot;&gt;MP3:&lt;/span&gt;&lt;span style=&quot; font-size:16px;&quot;&gt; Ideal for audio-only content. Small file size, high sound quality.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot; style=&quot; margin-top:0px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px; font-weight:600;&quot;&gt;MP4:&lt;/span&gt;&lt;span style=&quot; font-size:16px;&quot;&gt; Best for video. Maintains excellent visual and audio fidelity.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;YTDM supports both, giving you the flexibility to build your perfect media library.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:26px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;❓ Frequently Asked Questions (FAQ)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#4b4b4b;&quot;&gt;What is YTDM?&lt;/span&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;&lt;br /&gt;YTDM (YouTube Download Manager) is a free app for downloading and converting YouTube videos into formats like MP3 and MP4.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#4b4b4b;&quot;&gt;Do I need to sign up to use YTDM?&lt;/span&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;&lt;br /&gt;No. YTDM is completely free and doesn’t require registration.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#4b4b4b;&quot;&gt;Which formats are supported?&lt;/span&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;&lt;br /&gt;YTDM supports MP3 &amp;amp; MP4 formats for both audio and video.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#4b4b4b;&quot;&gt;Can I use YTDM on mobile devices?&lt;/span&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;&lt;br /&gt;No, but we are working on it...&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#4b4b4b;&quot;&gt;How fast is the download process?&lt;/span&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;&lt;br /&gt;YTDM offers fast conversion speeds, allowing you to download content in more or less than 30 seconds.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#4b4b4b;&quot;&gt;Is YTDM safe to use?&lt;/span&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;&lt;br /&gt;Absolutely. YTDM doesn’t collect personal data and uses secure connections for all downloads.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#4b4b4b;&quot;&gt;How does YTDM compare to other downloaders?&lt;/span&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;&lt;br /&gt;YTDM offers unlimited downloads, no registration, and broad format support, making it a superior choice among free downloaders.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:26px; margin-bottom:7px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; font-weight:600; color:#2c3e50;&quot;&gt;🌟 Final Thoughts&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:19px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;YTDM is more than just a downloader—it’s a complete media management solution. Whether you're building a music playlist, saving educational videos, or archiving your favorite content, YTDM delivers speed, quality, and simplicity. Try it today and experience the difference.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;--------------------------------------------------------------------------------------------------------------&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;📩 &lt;/span&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Notice a bug or issue?&lt;/span&gt;&lt;span style=&quot; font-family:'Inter,sans-serif'; font-size:11pt; color:#4b4b4b;&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;If you come across any problems, unexpected behavior, or have suggestions to improve our product, please don’t hesitate to let us know!&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;We truly appreciate your feedback — it helps us make the tool better for everyone.&lt;br /&gt;You can reach us anytime at:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;mahi.2009.ayan@gmail.com&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Thank you for helping us improve! 🌟&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
